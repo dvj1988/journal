@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.tox .tox-button--secondary {
+  border-radius: 0 !important;
+}
